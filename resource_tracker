@@ -1,0 +1,11 @@
+Print list of s3 buckets
+Print list of ec2 instances
+"i-0df0ed3eb102e65ff"
+Print list of lambda functions
+{
+    "Functions": []
+}
+Print list of IAM Users
+{
+    "Users": []
+}
